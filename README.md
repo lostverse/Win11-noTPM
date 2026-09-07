@@ -31,6 +31,13 @@ evita la verificación de hardware durante la instalación.
 
 ---
 
+> ⚠️ Este método puede dejar de funcionar en futuras builds de Windows 11
+> si Microsoft decide parchearlo. Si deja de funcionar, la alternativa
+> más fiable es [Rufus](https://rufus.ie) con la opción
+> "Remove requirement for 4GB+ RAM, Secure Boot, and TPM 2.0". 
+
+---
+
 ### ⚠️ Disclaimer
 
 Este contenido es **solo orientativo** y se proporciona "tal cual", sin garantía de

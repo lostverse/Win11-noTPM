@@ -28,3 +28,21 @@ Funciona en builds recientes (24H2, 25H2).
 Se debe usar una clave de producto original y legítima (retail u OEM).
 Este método no es una forma de activar Windows sin licencia, simplemente
 evita la verificación de hardware durante la instalación.
+
+---
+
+### ⚠️ Disclaimer
+
+Este contenido es **solo orientativo** y se proporciona "tal cual", sin garantía de
+ningún tipo. El uso de estas instrucciones, scripts o configuraciones es
+**bajo tu propia responsabilidad**.
+
+No me hago responsable de:
+
+- Daños al sistema, pérdida de datos o cualquier otro problema derivado de
+  seguir estas indicaciones.
+- El uso que se les dé a estas configuraciones en equipos que no son los
+  descritos aquí.
+- Problemas de compatibilidad con hardware o software distinto al probado.
+
+Si algo se rompe, es tuyo. 😄   
